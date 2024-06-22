@@ -13,7 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/EnumaElish123"><img src="https://avatars.githubusercontent.com/u/129145075?v=4?s=100" width="100px;" alt="EnumaElish123"/><br /><sub><b>EnumaElish123</b></sub></a><br /><a href="https://github.com/EnumaElish123/pic/commits?author=EnumaElish123" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/EnumaElish123"><img src="https://avatars.githubusercontent.com/u/129145075?v=4?s=100" width="100px;" alt="EnumaElish123"/><br /><sub><b>EnumaElish123</b></sub></a><br /><a href="https://github.com/EnumaElish123/pic/commits?author=EnumaElish123" title="Code">💻</a> <a href="#design-EnumaElish123" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
